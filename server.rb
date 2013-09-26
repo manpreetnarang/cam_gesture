@@ -1,3 +1,6 @@
+## Written by Manpreet Singh Narang
+## http://www.hak9.com/how-to-make-webbrick-to-serve-static-content/
+
 require 'webrick'
 include WEBrick
  
